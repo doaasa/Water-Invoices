@@ -6,9 +6,6 @@
 <br>
 
 ## Using Guna.UI Package to adjust the interface colors.
-<br>
-<br>
-<br>
 
 ## Using Events like Key press and Text changed to restrict the entering fields in the text box
 
@@ -32,6 +29,7 @@
 
 
 
-#To contact Developer:
+# To contact Developer:
+<br>
 [LinkedIn](https://www.linkedin.com/in/doaa-sayed-ibrahim-08a77a209)
 
